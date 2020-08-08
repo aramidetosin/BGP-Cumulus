@@ -1,0 +1,65 @@
+---
+
+R1:
+    hostname: 192.168.1.211
+    groups:
+        - linux_group
+
+
+
+R2:
+    hostname: 192.168.1.216
+    groups:
+        - linux_group
+
+R3:
+    hostname: 192.168.1.221
+    groups:
+        - linux_group
+
+
+R4:
+    hostname: 192.168.1.226
+    groups:
+        - linux_group
+
+R5:
+    hostname: 192.168.1.231
+    groups:
+        - linux_group
+
+R6:
+    hostname: 192.168.1.236
+    groups:
+        - linux_group
+
+
+R7:
+    hostname: 192.168.1.241
+    groups:
+        - linux_group
+
+R8:
+    hostname: 192.168.1.246
+    groups:
+        - linux_group
+
+R9:
+    hostname: 192.168.1.251
+    groups:
+        - linux_group
+
+R10:
+    hostname: 192.168.1.8
+    groups:
+        - linux_group
+
+R11:
+    hostname: 192.168.1.11
+    groups:
+        - linux_group
+
+R12:
+    hostname: 192.168.1.16
+    groups:
+        - linux_group
